@@ -1,6 +1,6 @@
 
 # StudyNotion - EdTech Platform
-https://study-notion2-seven.vercel.app/ (Link to Website)
+https://study-notionfinal-jwdzh413n-manastripathi07s-projects.vercel.app/ (Link to Website)
 
 
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
