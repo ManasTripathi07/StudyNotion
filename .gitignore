@@ -16,6 +16,8 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
+.env
+
 # Optional: IDE/editor settings
 .vscode/
 .idea/
